@@ -46,6 +46,28 @@ Note: You might need to do extra setup for your environment to run React Native 
 ![Uygulama Ekran Görüntüsü](https://i.ibb.co/B2q60v7/resim-2023-05-30-202452041.png)
 - Dark Mode
 
+## Test Enviroments
+
+The application has been tested across multiple platforms:
+
+### Android
+
+Testing on Android was conducted on the following devices:
+
+- Google Pixel 3a
+- Nexus 9
+
+The application performed well on these devices, with all features functioning as expected.
+
+### Web
+The application was also tested thoroughly in a web environment, with all features working correctly.
+
+### iOS
+
+Please note that this application has not yet been tested on iOS devices. While React Native is designed to work on both Android and iOS, there may be some unforeseen issues on iOS. Any feedback or contributions related to iOS testing are highly welcomed.
+
+If you would like to test this application on an iOS device, you may need to do some additional setup. Check out the [React Native environment setup guide](https://reactnative.dev/docs/environment-setup) for more information.
+
 
 
 ## Contributing
